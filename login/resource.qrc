@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>background.jpg</file>
+        <file>Warning.png</file>
+        <file>topup.png</file>
+        <file>topup_hover.png</file>
+        <file>topuphuodong.png</file>
+        <file>bg.jpeg</file>
+        <file>user.png</file>
+        <file>user_hover.png</file>
+        <file>send_hover.png</file>
+        <file>send.png</file>
+    </qresource>
+</RCC>
