@@ -3,3 +3,5 @@
 # 页面实时刷新 可本地多开互动(充值、发送接收信息)
 ####
 #注意，否则打不开：1、在D盘创建Qt文件夹，将login文件夹放进去 2、把woaini.ttf放到C盘字体文件夹中
+![image](https://github.com/Zz1trum/Demo/blob/master/images/00.jpg)
+![image](https://github.com/Zz1trum/Demo/blob/master/images/01.jpg)
